@@ -18,7 +18,7 @@
 
 ## 🌐 Live Demo
 
-👉 [View Live on Render](https://wanderlust-clone.onrender.com)
+👉 [View Live on Render](https://airbnb-z2de.onrender.com/listings)
 
 ---
 
@@ -73,7 +73,7 @@ MAJORPROJECT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mohit-Y-Kumar/wanderlust-airbnb-clone.git
+git clone https://github.com/Mohit-Y-Kumar/Airbnb.git
 cd wanderlust-airbnb-clone
  Install Dependencies
 
